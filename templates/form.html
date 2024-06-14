@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Calibri:wght@400;700&display=swap');
+        
+        body {
+            font-family: 'Calibri', 'Aptos';
+            background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            font-weight: 700;
+        }
+        form {
+            background: #fff;
+            
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 350px;
+            text-align: center;
+        }
+        label {
+            display: block;
+            margin-top: 20px;
+            color: #555;
+            font-weight: 700;
+        }
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            width: 100%;
+            background-color: #ff7e5f;
+            color: white;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-weight: 700;
+            transition: background-color 0.3s;
+        }
+        input[type="submit"]:hover {
+            background-color: #ff6b4d;
+        }
+        .form-container {
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        
+        <h2>Internship Project Preference</h2>
+        <form method="POST" action="/">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="college">College Name:</label>
+            <select id="college" name="college" required>
+                <option disabled selected value="">Select College Name</option>
+                {% for college in colleges %}
+                    <option value="{{ college }}">{{ college }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <label for="pref1">Preference 1:</label>
+            <select id="pref1" name="pref1">
+                <option disabled selected value="">Select Preference 1</option>
+                {% for project in projects %}
+                    <option value="{{ project }}">{{ project }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <label for="pref2">Preference 2:</label>
+            <select id="pref2" name="pref2">
+                <option disabled selected value="">Select Preference 2</option>
+                {% for project in projects %}
+                    <option value="{{ project }}">{{ project }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <label for="pref3">Preference 3:</label>
+            <select id="pref3" name="pref3">
+                <option disabled selected value="">Select Preference 3</option>
+                {% for project in projects %}
+                    <option value="{{ project }}">{{ project }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
