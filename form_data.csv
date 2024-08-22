@@ -1,0 +1,70 @@
+id,name,college,pref1,pref2,pref3
+1,Agastya,College B,Project 2,Project 2,Project 4
+2,Irshita,College B,Project 3,Project 1,Project 3
+3,Irshita,College B,Project 3,Project 1,Project 3
+4,Agastya,ICT Jalna,Project2,Project2,Project1
+5,Agastya,ICT Jalna,Project2,Project2,Project1
+6,Agastya,ICT Jalna,Project2,Project2,Project1
+7,Agastya,ICT Jalna,Project2,Project2,Project1
+8,Agastya,ICT Jalna,Project2,Project2,Project1
+9,Agastya,ICT Jalna,Project2,Project2,Project1
+10,Agastya,AVV Coimbatore,Project2,Project1,Project2
+11,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+12,Agastya,AVV Coimbatore,Project2,Project2,Project2
+13,Irshita,AVV Coimbatore,Project2,Project2,Project2
+14,Irshita,AVV Coimbatore,Project2,Project2,Project2
+15,Irshita,AVV Coimbatore,Project2,Project2,Project2
+16,A,VJTI (Chemical),Project2,Project1,Project1
+17,A,VJTI (Chemical),Project2,Project1,Project1
+18,Irshita,AVV Coimbatore,Project2,Project2,Project2
+19,A,VJTI (Chemical),Project2,Project1,Project1
+20,A,VJTI (Chemical),Project2,Project1,Project1
+21,A,VJTI (Chemical),Project2,Project1,Project1
+22,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+23,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+24,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+25,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+26,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+27,Agastya,Bharti Vidyapeeth,Project2,Project2,Project2
+28,Agastya,AVV Coimbatore,Project1,Project1,Project1
+29,Agastya,AVV Coimbatore,Project1,Project1,Project1
+30,Agastya,AVV Coimbatore,Project1,Project1,Project1
+31,A,VJTI (Chemical),Project2,Project1,Project1
+32,A,VJTI (Chemical),Project2,Project1,Project1
+33,Agastya,AVV Coimbatore,Project1,Project1,Project1
+34,Agastya,AVV Coimbatore,Project1,Project1,Project1
+35,Agastya,AVV Coimbatore,Project1,Project1,Project1
+36,Agastya,AVV Coimbatore,Project1,Project1,Project1
+37,Agastya,AVV Coimbatore,Project1,Project1,Project1
+38,Agastya,AVV Coimbatore,Project1,Project1,Project1
+39,Agastya,AVV Coimbatore,Project1,Project1,Project1
+40,Agastya,AVV Coimbatore,Project1,Project1,Project1
+41,Agastya,AVV Coimbatore,Project1,Project1,Project1
+42,Agastya,AVV Coimbatore,Project1,Project1,Project1
+43,Agastya,AVV Coimbatore,Project1,Project1,Project1
+44,Agastya,AVV Coimbatore,Project1,Project1,Project1
+45,Agastya,AVV Coimbatore,Project1,Project1,Project1
+46,Agastya,AVV Coimbatore,Project1,Project1,Project1
+47,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+48,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+49,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+50,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+51,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+52,amit,Datta Meghe College of Engineering,Project2,Project1,Project1
+53,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+54,Agastya,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+55,amit,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Generative Design and Topology Optimization,Synergistic weitting agents for dishwash bar
+56,amit,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Generative Design and Topology Optimization,Synergistic weitting agents for dishwash bar
+57,amit,AVV Coimbatore,Synergistic weitting agents for dishwash bar,Generative Design and Topology Optimization,Synergistic weitting agents for dishwash bar
+58,Gulab,ICT Jalna,Synergistic weitting agents for dishwash bar,Powdered surfactant for Home care application,Generative Design and Topology Optimization
+59,Gulab,ICT Jalna,Synergistic weitting agents for dishwash bar,Powdered surfactant for Home care application,Generative Design and Topology Optimization
+60,amit,Datta Meghe College of Engineering,Project2,Project1,Project1
+61,amit,Datta Meghe College of Engineering,Project2,Project1,Project1
+62,amit,Datta Meghe College of Engineering,Project2,Project1,Project1
+63,amit,Datta Meghe College of Engineering,Project2,Project1,Project1
+64,Gulab,NIT Jalandhar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar,Synergistic weitting agents for dishwash bar
+65,Agastya,ICT Mumbai,Powdered surfactant for Home care application,Synergistic wetting agents for dishwash bar,Generative Design and Topology Optimization
+66,Gulab,ICT Jalna,Powdered surfactant for Home care application,Generative Design and Topology Optimization,Synergistic wetting agents for dishwash bar
+67,Gulab,ICT Jalna,Powdered surfactant for Home care application,Generative Design and Topology Optimization,Synergistic wetting agents for dishwash bar
+68,Agastya,AVV Coimbatore,Synergistic wetting agents for dishwash bar,Synergistic wetting agents for dishwash bar,Synergistic wetting agents for dishwash bar
+69,sd,ICT Mumbai,Generative Design and Topology Optimization,"LD/LLDPE PCR competitive landscape technology, Supply & Demand",Coconut oil sensory improvement
